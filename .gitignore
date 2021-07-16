@@ -14,3 +14,6 @@
 gradle/wrapper
 gradlew
 gradlew.*
+
+# Java classes
+bin/borlanddemangler/
