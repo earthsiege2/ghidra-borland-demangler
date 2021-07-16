@@ -1,0 +1,16 @@
+# Misc files
+*.setting
+*.settings
+*.directory
+.gradle/
+
+# Ignore eclipse project files
+.project
+.classpath
+.settings/
+.prefs
+
+# Ignore gradle wrapper files
+gradle/wrapper
+gradlew
+gradlew.*
